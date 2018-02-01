@@ -1,1 +1,2 @@
-# git-package2
+# git-package2 
+this is tutorial purpose
